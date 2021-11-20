@@ -1,3 +1,3 @@
-## V-I-L-F Series on Youtube
+## Product management with categories and subcategories, built with : Laravel and Vuejs.
 
-[Introduction Episode](https://youtu.be/5ZF7eMWf2O8)
+
